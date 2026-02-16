@@ -4,7 +4,10 @@
 
 # Remove Ad Overlays
 
+**Homepage:** [https://cellicom.github.io/remove-ads/](https://cellicom.github.io/remove-ads/)
+
 A lightweight, purely client-side solution designed to bypass intrusive full-screen AdBlock detection overlays and restore DOM functionality.
+
 
 ## Technical Overview
 
